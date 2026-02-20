@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Abhi3110200/Bank-Transaction-Backend/issues"
   },
-  "homepage": "https://github.com/Abhi3110200/Bank-Transaction-Backend#readme"
+  "homepage": "https://github.com/Abhi3110200/Bank-Transaction-Backend#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1"
+  }
 }
